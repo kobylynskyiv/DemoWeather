@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoWeather</string>
+    <string name="fg_main_show_weather">Показать погоду</string>
+    <string name="fg_main_not_data">У нас нету данных</string>
+</resources>
